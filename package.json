@@ -1,0 +1,13 @@
+{
+  "name": "sub-status-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^9.1.4"
+  }
+}
